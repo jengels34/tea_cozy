@@ -10,10 +10,6 @@ body {
   margin: 0;
 }
 
-div {
-  display: block;
-}
-
 .flex {
     display: flex;
     justify-content: center;
